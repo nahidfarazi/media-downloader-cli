@@ -1,1 +1,1 @@
-command ->./media-cli download "https://www.youtube.com/watch?v=VIDEO_ID" -r 720
+command ->./media-cli download "your video link" -r 720
