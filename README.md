@@ -13,7 +13,7 @@ pip3 install yt-dlp
 ```
 ### make sure your video url is ok
 ```sh
- ./media-cli download "your video url" -r 720
+ ./media-cli download <"your video url"> -r 720
 ```
 ## if any issue follow this and then run command
 ### for ubuntu
