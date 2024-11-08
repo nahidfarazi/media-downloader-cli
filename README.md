@@ -2,6 +2,16 @@
 
 ## follow the command
 
+### make sure this tow tools are installed
+
+```sh
+pip3 install yt-dlp
+```
+```sh
+pip3 install yt-dlp
+```
+### now app run command
+
 ```sh
 git clone https://github.com/nahidfarazi/media-downloader-cli
 ```
@@ -11,12 +21,7 @@ cd media-downloader-cli
 ```
 go mod tidy
 ```
-```sh
-pip3 install yt-dlp
-```
-```sh
-pip3 install yt-dlp
-```
+
 ### make sure your video url is ok
 ```sh
  ./media-cli download <"your video url"> -r 720
