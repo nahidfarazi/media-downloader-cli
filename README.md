@@ -5,6 +5,12 @@
 ```sh
 git clone https://github.com/nahidfarazi/media-downloader-cli
 ```
+```
+cd media-downloader
+```
+```
+go mod tidy
+```
 ```sh
 pip3 install yt-dlp
 ```
