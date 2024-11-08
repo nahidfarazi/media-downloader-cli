@@ -6,7 +6,7 @@
 git clone https://github.com/nahidfarazi/media-downloader-cli
 ```
 ```
-cd media-downloader
+cd media-downloader-cli
 ```
 ```
 go mod tidy
