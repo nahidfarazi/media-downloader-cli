@@ -15,12 +15,7 @@ pip3 install yt-dlp
 ```sh
 git clone https://github.com/nahidfarazi/media-downloader-cli
 ```
-```
-cd media-downloader-cli
-```
-```
-go mod tidy
-```
+
 
 ### make sure your video url is ok
 ```sh
