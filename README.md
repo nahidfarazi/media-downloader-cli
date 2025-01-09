@@ -2,11 +2,8 @@
 
 ## follow the command
 
-### make sure this tow tools are installed
+### make sure this tools are installed
 
-```sh
-pip3 install yt-dlp
-```
 ```sh
 pip3 install yt-dlp
 ```
