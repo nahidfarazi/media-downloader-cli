@@ -1,8 +1,8 @@
 # Youtube video Downloader
 
-### use buid version:
-```sh [`YouTube-Downloader`](https://github.com/nahidfarazi/youtube-downloader)
-```
+# use buid version:
+ [`YouTube-Downloader`](https://github.com/nahidfarazi/youtube-downloader)
+
 
 ## follow the command
 
