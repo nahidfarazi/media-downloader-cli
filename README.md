@@ -1,5 +1,9 @@
 # Youtube video Downloader
 
+### use buid version:
+```sh [`YouTube-Downloader`](https://github.com/nahidfarazi/youtube-downloader)
+```
+
 ## follow the command
 
 ### make sure this tools are installed
@@ -27,3 +31,4 @@ sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o
 ```sh
 sudo chmod a+x /usr/local/bin/yt-dlp
 ```
+<------------>
